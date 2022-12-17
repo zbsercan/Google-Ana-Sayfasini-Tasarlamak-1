@@ -1,0 +1,72 @@
+.container{
+    font-size: 13px;
+    width: 90%;
+    margin: auto;
+    text-align: -webkit-center;
+    color:black
+}
+.logo{
+margin-left: auto;
+margin-right: auto;
+margin-top: 5px;
+margin-bottom: 5px;
+width: 351px;
+height: 113px;
+}
+.search{   
+    height: 62px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: -webkit-center;
+    background-color: rgb(244, 239, 239);
+    font-size: 16px;
+}
+.cards{
+    margin-left: auto;
+    margin-right: auto;
+    height: 73px;
+    margin-left: auto;
+    margin-right: auto;
+    color: black; 
+}
+.cards a{
+    color: #000EEA;
+}
+#stanford{
+    color: #551A8B;
+}
+.card1{
+    width: 35%;
+    height: 64px;
+    background-color: #7EE5DA;
+    text-align: -webkit-center;
+    font-size: 16px;
+    float: left;
+    margin-top: 2px;
+    padding-top: 11px;
+}
+.card2{
+    width: 20%;
+    height: 65px;
+    padding-top: 10px;
+    background-color: #70CCC2; 
+    font-size: 13px;
+    text-align: -webkit-center;
+    float: left;
+    margin-left: 2px;
+    margin-top: 2px;
+}
+.card3{
+    margin-top: 2px;
+    margin-left: 2px;
+    width: 44.5%;
+    height: 75px;
+    float: left;
+    text-align: -webkit-center;
+    background-color: #5eb7ad;
+    font-size: -1;
+}
+span{
+    font-size: 13px;
+    color: black;
+}
